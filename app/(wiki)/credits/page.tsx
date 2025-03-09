@@ -14,9 +14,9 @@ type User = {
 // DONT CHANGE THIS UNLESS MODS HAVE APPROVED YOUR CHANGES
 const WIKI_TEAM: User[] = [
   {
-    name: "zedaes",
+    name: "xvc",
     description: "Wiki Managr",
-    avatar: "https://avatars.githubusercontent.com/u/147769903"
+    avatar: "https://avatars.githubusercontent.com/u/182416980"
   },
   {
     name: "Katloo",
